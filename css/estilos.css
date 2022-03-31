@@ -34,9 +34,9 @@ header {
     height: 600px;
     background: #4e90bc;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(180, 45%, 32%, 0.5), hsla(115, 75%, 39%, 0.466)), url(../img/fondo.jp);
+    background: -webkit-linear-gradient(to right, hsl(180, 95%, 86%), hsl(115, 81%, 35%)), url(../img/fondo.jp);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(192, 59%, 44%, 0.486), rgba(36, 155, 20, 0.767)), url(../img/fondo.jp);
+    background: linear-gradient(to right, hsl(192, 100%, 83%), rgb(51, 184, 33)), url(../img/fondo.jp);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
